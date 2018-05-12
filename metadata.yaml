@@ -13,6 +13,8 @@ creator:
 description: A fantastic historical adventure novel set during the Zulu uprising of
   1906, written by prolific colonial writer, novelist, essayist and cultural critic
   Bertram Mitford.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32567#Forging-the-Blades--A-Tale-of-the-Zulu-Rebellion
 gutenberg_issued: '2010-05-28'
 gutenberg_type: Text
 identifiers:
