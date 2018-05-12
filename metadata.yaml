@@ -1,0 +1,31 @@
+_repo: Forging-the-Blades--A-Tale-of-the-Zulu-Rebellion_32567
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mitford, Bertram
+    birthdate: 1855
+    deathdate: 1914
+    gutenberg_agent_id: '32710'
+    url: http://www.gutenberg.org/2009/agents/32710
+description: A fantastic historical adventure novel set during the Zulu uprising of
+  1906, written by prolific colonial writer, novelist, essayist and cultural critic
+  Bertram Mitford.
+gutenberg_issued: '2010-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32567'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Adventure stories'
+- !lcsh 'Historical fiction'
+- !lcsh 'Zulu Rebellion, 1906 -- Fiction'
+- !lcsh 'South Africa -- Fiction'
+title: 'Forging the Blades: A Tale of the Zulu Rebellion'
+url: http://www.gutenberg.org/ebooks/32567
